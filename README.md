@@ -1,4 +1,4 @@
-# Hello, I'm John Carlo Salinas! 👋
+![image](https://github.com/user-attachments/assets/0c00001f-32c4-4e49-9572-a0292aac5785)# Hello, I'm John Carlo Salinas! 👋
 
 * 👨🏻‍💻 Computer Engineering student at University of San Carlos
 * 🌐 Has practical experience in IoT, web development, and firmware
@@ -10,7 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" style="border-radius: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="80" style="border-radius: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" style="border-radius: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="80" style="border-radius: 20px;">
+  <img src="https://th.bing.com/th/id/OIP.DzbaJWGcVeHs0C_4SPXV2QHaHa?rs=1&pid=ImgDetMain" alt="Firebase" width="80" style="border-radius: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="80" style="border-radius: 20px;">
   <img src="https://th.bing.com/th/id/OIP.DzbaJWGcVeHs0C_4SPXV2QHaHa?rs=1&pid=ImgDetMain" alt="Java" width="80" style="border-radius: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80" style="border-radius: 20px;">
