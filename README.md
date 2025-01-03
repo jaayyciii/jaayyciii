@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm John Carlo Salinas! 👋
 
-<!--
-**jaayyciii/jaayyciii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Computer Engineering student 
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
+- [Project 1](link)
+- [Project 2](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- [Skill or Technology 1]
+- [Skill or Technology 2]
+
+## 📫 How to Reach Me
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+
+## ⚡ Fun Fact
+I love [fun fact about you, e.g., "solving puzzles" or "exploring new coffee shops"]!
