@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c00001f-32c4-4e49-9572-a0292aac5785)# Hello, I'm John Carlo Salinas! 👋
+# Hello, I'm John Carlo Salinas! 👋
 
 * 👨🏻‍💻 Computer Engineering student at University of San Carlos
 * 🌐 Has practical experience in IoT, web development, and firmware
