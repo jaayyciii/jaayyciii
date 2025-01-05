@@ -5,4 +5,4 @@
 * 📚 Currently exploring data science and machine learning.
 
 ## 👨🏻‍💻 Techs and Tools
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,bootstrap,postgres,firebase,c,java,python,fastapi,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,bootstrap,postgres,firebase,c,java,python,fastapi,tensorflow,electron&theme=light)](https://skillicons.dev)
