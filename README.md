@@ -1,6 +1,6 @@
 # Hello, I'm John Carlo Salinas! 👋
 
-* 👨🏻‍💻 **Computer Engineering student** at University of San Carlos 
+* 👨🏻‍💻 **Computer Engineering** graduate from University of San Carlos 
 * 🌐 Has practical experience in **IoT, web development, and firmware**
 * 📚 Currently seeking for a Project Manager/ Full-stack Developer role
 
